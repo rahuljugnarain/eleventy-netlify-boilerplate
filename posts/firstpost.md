@@ -5,13 +5,15 @@ metaDescription: This is a sample meta description. If one is not present in
   instead.
 date: 2021-03-17T19:29:18.290Z
 author: Rahul Jugnarain
-summary: "Getting stuck in and having a go (without major risks) is a great way
-  to learn. "
+summary: What is the purpose behind this website
 tags:
   - tech
   - webdev
   - ""
 ---
+List of reasons:
+
+*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -21,11 +23,12 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
-``` text/2-3
+```text/2-3
 // this is a command
 function myCommand() {
 	let counter = 0;
 	counter++;
 }
 ```
+
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
