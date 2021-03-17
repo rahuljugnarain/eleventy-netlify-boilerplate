@@ -12,3 +12,7 @@ eleventyNavigation:
 Hi there, my name is Rahul and welcome to my personal blog :)
 
 This blog is still a work in progress - I'm trying to build it using Eleventy (static site generator), and deploying this to Netlify. Hopefully the next time you visit there'll be more to see.
+
+Most of this site is still part of the boilerplate code (still need to keep the blog examples so I understand the formatting LOL), but if you're interested in my actual first post it should be linked below:
+
+<a href="{% link "./firstpost.md" %}">Test</a>
