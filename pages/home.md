@@ -15,5 +15,5 @@ This blog is still a work in progress - I'm trying to build it using Eleventy (s
 
 Most of this site is still part of the boilerplate code (still need to keep the blog examples so I understand the formatting LOL), but if you're interested in my actual first post it should be linked below:
 
-[First Post](why-i-am-building-this-website/)
+[First Post](posts/why-i-am-building-this-website/)
 

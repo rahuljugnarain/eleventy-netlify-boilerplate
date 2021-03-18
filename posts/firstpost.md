@@ -1,12 +1,11 @@
 ---
 title: Why I am building this website
-date: 2021-03-17T19:29:18.290Z
+date: 2021-03-17
 author: Rahul Jugnarain
 summary: What is the purpose behind this website
 tags:
   - tech
   - webdev
-  - ""
 ---
 List of reasons:
 
