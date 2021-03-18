@@ -2,14 +2,18 @@
 title: Why I am building this website
 date: 2021-03-18T19:04:03.663Z
 author: Rahul Jugnarain
-summary: What is the purpose behind this website
+summary: Explaining why I've decided to create a website and what I aim to do with it.
 tags:
   - tech
   - webdev
 ---
-List of reasons:
+I've decided to build this website for three main reasons:
+* Have a place on the web to compile my thoughts, learnings, experience etc
+* Learn how to build a website that deploys through Netlify and costs $0 to host
+* 
 
-*
+
+
 
 Really cool websites:
 
@@ -17,6 +21,7 @@ Really cool websites:
 * [lenny.fyi](https://lenny.fyi/) - [GitHub Link](https://github.com/lennyanders/lenny.fyi)
 * [Max Böck](https://mxb.dev/) - [GitHub Link](https://github.com/maxboeck/mxb)
 * [Sarah Fossheim](https://fossheim.io/) - [GitHub Link](https://github.com/sarahfossheim/fossheim-io) 
+
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
