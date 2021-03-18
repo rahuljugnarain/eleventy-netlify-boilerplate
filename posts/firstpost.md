@@ -1,8 +1,5 @@
 ---
 title: Why I am building this website
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
 date: 2021-03-17T19:29:18.290Z
 author: Rahul Jugnarain
 summary: What is the purpose behind this website
