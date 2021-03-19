@@ -7,13 +7,10 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# Hi, I'm Rahul Jugnarain
 
-Hi there, my name is Rahul and welcome to my personal blog :)
+Welcome to my personal blog that I'm slowly building. I currently work as a Junior Associate Product Manager and love to try anything and everything (this being one of them). Stick around and maybe the next time you visit you'll see some cool stuff eventually!
 
-This blog is still a work in progress - I'm trying to build it using Eleventy (static site generator), and deploying this to Netlify. Hopefully the next time you visit there'll be more to see.
+Most of this site is still part of the boilerplate template that I've used to get started, but I've written one so far that you can check out which goes into more detail around why I'm building this site in this specific way.
 
-Most of this site is still part of the boilerplate code (still need to keep the blog examples so I understand the formatting LOL), but if you're interested in my actual first post it should be linked below:
-
-[First Post](posts/why-i-am-building-this-website/)
-
+[My first post - why I'm building this site](posts/why-i-am-building-this-website/)
