@@ -24,7 +24,7 @@ In this day and age, anyone can create a website easily with Squarespace or Word
 1. $0 hosting - all I need is a domain name that costs around £10 a year
 2. Learn proper web development, improving my understanding of HTML and CSS, whilst having plenty more that I am yet to explore
 
-# Really cool websites I'll be using as inspiration
+# Cool websites I'll be using as inspiration
 Right now the website is pretty vanilla and doesn't look all too great. I hope to change that eventually, and I've listed some great sites I've found built with Eleventy.
 
 * [Josh Crain](https://joshcrain.io/) - [GitHub Link](https://github.com/joshcrain/joshcrain.io)
