@@ -2,41 +2,32 @@
 title: Why I am building this website
 date: 2021-03-18T19:04:03.663Z
 author: Rahul Jugnarain
-summary: Explaining why I've decided to create a website and what I aim to do with it.
+summary: Find out why I've decided to create a website and what I aim to do with it.
 tags:
   - tech
   - webdev
 ---
-I've decided to build this website for three main reasons:
+I've decided to build this website for two main reasons:
 * Have a place on the web to compile my thoughts, learnings, experience etc
 * Learn how to build a website that deploys through Netlify and costs $0 to host
-* 
 
+I find that the best way of learning and remembering is by actually doing. I could complete a Udemy course and then get started, but learning by discovery with an actual project can firstly motivate you to continue, and also have a tangible end product you can continue evolving as you learn more.
 
+# Having a personal website
 
+Having a personal website is a great way to express what I'm interested in.
 
-Really cool websites:
+# Learning how to build a website this specific way
+
+In this day and age, anyone can create a website easily with Squarespace or WordPress. So why have I decided to go down this route (using Eleventy and deploying through Netlify)?
+
+1. $0 hosting - all I need is a domain name that costs around £10 a year
+2. Learn proper web development, improving my understanding of HTML and CSS, whilst having plenty more that I am yet to explore
+
+# Really cool websites I'll be using as inspiration
+Right now the website is pretty vanilla and doesn't look all too great. I hope to change that eventually, and I've listed some great sites I've found built with Eleventy.
 
 * [Josh Crain](https://joshcrain.io/) - [GitHub Link](https://github.com/joshcrain/joshcrain.io)
 * [lenny.fyi](https://lenny.fyi/) - [GitHub Link](https://github.com/lennyanders/lenny.fyi)
 * [Max Böck](https://mxb.dev/) - [GitHub Link](https://github.com/maxboeck/mxb)
 * [Sarah Fossheim](https://fossheim.io/) - [GitHub Link](https://github.com/sarahfossheim/fossheim-io) 
-
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
