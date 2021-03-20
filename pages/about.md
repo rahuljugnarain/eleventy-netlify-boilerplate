@@ -14,8 +14,12 @@ I'm Rahul Jugnarain. I love technology, innovation and strategy. The harder the 
 
 I currently work at [Publicis Sapient](https://www.publicissapient.com/) in London, where we help large business transform digitally.
 
-Aside from that, I have a ton of interests that I hope to write about on this blog. These include:
+Aside from that, I have a ton of interests that I hope to write about on this blog. 
 
+These include:
+* Start-ups/Disruptive Innovation
+* Crypto/Decentralised Finance
+* Coding (currently learning/using Python & MQL)
 
 
 If you'd like to know more about my background, check out my [LinkedIn](https://www.linkedin.com/in/jugnarain/).
