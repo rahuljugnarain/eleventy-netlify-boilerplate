@@ -1,6 +1,6 @@
 :root {
 	--primary: #282832;
-	--secondary: white;
+	--secondary: #E0E0E1;
 	--background: #F7F7F7;
 }
 
@@ -36,6 +36,12 @@ a[href],
 a[href]:visited {
 	color: var(--primary);
 }
+
+p a[href]:not(:hover) {
+	text-decoration: underline;
+}
+
+
 
 a[href]:not(:hover) {
 	text-decoration: none;
@@ -113,7 +119,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: #E0E0E1;
+	background-color: var(--secondary);
 }
 
 /* Posts List */
