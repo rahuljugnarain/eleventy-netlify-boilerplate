@@ -27,7 +27,12 @@ In this day and age, anyone can create a website easily with Squarespace or Word
 # Cool websites I'll be using as inspiration
 Right now the website is pretty vanilla and doesn't look all too great. I hope to change that eventually, and I've listed some great sites I've found built with Eleventy.
 
+### Websites Built with 11ty
+
 * [Josh Crain](https://joshcrain.io/) - [GitHub Link](https://github.com/joshcrain/joshcrain.io)
 * [lenny.fyi](https://lenny.fyi/) - [GitHub Link](https://github.com/lennyanders/lenny.fyi)
 * [Max Böck](https://mxb.dev/) - [GitHub Link](https://github.com/maxboeck/mxb)
 * [Sarah Fossheim](https://fossheim.io/) - [GitHub Link](https://github.com/sarahfossheim/fossheim-io) 
+### Other websites with great design
+* [Jarin](https://jarin.me/) - [GitHub Link](https://github.com/gazijarin/Gazi/) 
+

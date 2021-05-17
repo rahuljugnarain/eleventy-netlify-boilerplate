@@ -37,14 +37,16 @@ a[href]:visited {
 	color: var(--primary);
 }
 
-p a[href]:not(:hover) {
-	text-decoration: underline;
+header a[href]:not(:hover) {
+	text-decoration: none;
 }
 
-
+h3 a[href]:not(:hover) {
+	text-decoration: none;
+}
 
 a[href]:not(:hover) {
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 
