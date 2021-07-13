@@ -23,6 +23,8 @@ body {
 } */
 
 /* Previous body css is the original, below is the one to centre the website from https://github.com/5t3ph/smol-11ty-starter/blob/main/src/css/style.css */
+/* Added margin and padding to body, added margin-top and padding to body>* - need to see what is best but this might fix the space between the top and header */
+
 
 body {
 	display: flex;
@@ -30,8 +32,9 @@ body {
 	min-height: 100vh;
 	padding: 5vh clamp(1rem, 5vw, 3rem) 1rem;
 	font-family: system-ui, sans-serif;
-	line-height: 1.5;
 	color: #222;
+	margin: 0;
+	padding: 0;
   }
   
   body > * {
@@ -40,6 +43,8 @@ body {
 	width: min(100%, var(--max-width));
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 0;
+	padding: 0;	
   }
 
 
