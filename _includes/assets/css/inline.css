@@ -82,6 +82,13 @@ img {
 	height: auto;
 }
 
+.imgfloatleft {
+	max-width:100%;
+	height: auto;
+	float: left;
+	margin-right: 0.5em;
+}
+
 header,
 main,
 footer {

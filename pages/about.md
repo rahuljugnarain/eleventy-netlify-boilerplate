@@ -7,8 +7,10 @@ eleventyNavigation:
   key: About
   order: 1
 ---
+<!-- 
+<a><img src="https://avatars.githubusercontent.com/u/41843104?s=400&u=6e434a25217afdd1fa486cf3973fc89566fd98f2&v=4" height="auto" width="200" style="border-radius:50%"></a> -->
 
-<a><img src="https://avatars.githubusercontent.com/u/41843104?s=400&u=6e434a25217afdd1fa486cf3973fc89566fd98f2&v=4" height="auto" width="200" style="border-radius:50%"></a>
+# UNDER CONSTRUCTION
 
 I'm Rahul Jugnarain. I love technology, innovation and strategy. The harder the problem, the more excited I am to try solve it.
 
