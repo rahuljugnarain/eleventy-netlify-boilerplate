@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Hi, I'm Rahul Jugnarain
+# Hey there! I'm Rahul 
 
 Welcome to my personal blog that I'm slowly building. I currently work as a Junior Associate Product Manager and love to try anything and everything (this being one of them). Stick around and maybe the next time you visit you'll see some cool stuff eventually!
 
