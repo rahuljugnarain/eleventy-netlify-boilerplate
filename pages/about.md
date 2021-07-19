@@ -10,18 +10,27 @@ eleventyNavigation:
 <!-- 
 <a><img src="https://avatars.githubusercontent.com/u/41843104?s=400&u=6e434a25217afdd1fa486cf3973fc89566fd98f2&v=4" height="auto" width="200" style="border-radius:50%"></a> -->
 
-# UNDER CONSTRUCTION
+<img src="https://db3pap001files.storage.live.com/y4mOIULCZa1KQ3nisxgBsY4ZQmGBSkg5wbMcYNhnIPLqx2uq0tV9RX-JnxKhs15uhpN_m_UzJ5nnlIInJmuvJ21KJ5XIVluc8MSzhZZ6diEu-SdeotRVwUFqWoPw0qjpDFiqJXBN7a87CzWUc3MEDlxwNP0rO7PIc6BUttGqgLgxLJ_Slmyqv412R4IA2ouo9V7?width=5405&height=1195&cropmode=none" width="5405" height="1195" />
 
-I'm Rahul Jugnarain. I love technology, innovation and strategy. The harder the problem, the more excited I am to try solve it.
+Hi there! I'm Rahul, a Junior Associate Product Manager at [Publicis Sapient](https://www.publicissapient.com/) in London.
 
-I currently work at [Publicis Sapient](https://www.publicissapient.com/) in London, where we help large business transform digitally.
-
-Aside from that, I have a ton of interests that I hope to write about on this blog. 
-
-These include:
-* Start-ups/Disruptive Innovation
-* Crypto/Decentralised Finance
-* Coding (currently learning/using Python & MQL)
+A culmination of various experiences has made me who I am today.
 
 
-If you'd like to know more about my background, check out my [LinkedIn](https://www.linkedin.com/in/jugnarain/).
+Early on, technology fascinated me with its boundless possibilities. This led to instances where I tried various ideas online, learning something new from each experience. From creating websites during my secondary school years that attempted different business models (content blocking, embedded referrals), to using up all my savings from my part-time job during university and starting an online e-commerce business where I sold over 800 units on Amazon.
+
+Recently, I've been working with some friends who share a similar passion to test problem statements we think are true with our customer-centric lenses. I believe that you can do anything you put your mind to. I have only touched the surface - there is a wealth of knowledge sitting on the internet available to all, and I aspire to become one of the best Product Managers during my journey.
+
+Aside from Product, I have several interests/hobbies that I hope to write about:
+
+- Weightlifting
+- Cryptocurrency
+- Travelling
+- Food
+- Meditation
+- Coding
+- Anime
+- Books/Podcasts
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jugnarain/) or through this site!
+
