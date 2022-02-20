@@ -12,7 +12,7 @@ eleventyNavigation:
 
 <img src="https://db3pap001files.storage.live.com/y4mOIULCZa1KQ3nisxgBsY4ZQmGBSkg5wbMcYNhnIPLqx2uq0tV9RX-JnxKhs15uhpN_m_UzJ5nnlIInJmuvJ21KJ5XIVluc8MSzhZZ6diEu-SdeotRVwUFqWoPw0qjpDFiqJXBN7a87CzWUc3MEDlxwNP0rO7PIc6BUttGqgLgxLJ_Slmyqv412R4IA2ouo9V7?width=5405&height=1195&cropmode=none" width="5405" height="1195" />
 
-Hi there! I'm Rahul, a Junior Associate Product Manager at [Publicis Sapient](https://www.publicissapient.com/) in London.
+Hi there! I'm Rahul, a Product Manager at [TrueLayer](https://truelayer.com/) in London.
 
 A culmination of various experiences has made me who I am today.
 
