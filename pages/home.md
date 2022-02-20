@@ -15,7 +15,7 @@ eleventyNavigation:
 
 Welcome to my personal blog, where I hope to write about things I'm passionate about. 
 
-This may include whatever I'm learning about, but one thing you'll hopefully soon find here in abundance is "Product" related items. Currently a Junior Associate Product Manager, my mission is to explore, understand, test, and build meaningful solutions for real people. [More about me](/about/)
+This may include whatever I'm learning about, but one thing you'll hopefully soon find here in abundance is "Product" related items. Currently a Product Manager, my mission is to explore, understand, test, and build meaningful solutions for real people. [More about me](/about/)
 
 I decided to go live with this website in it's bare state. Why? because I believe it's easier to incrementally work towards something that's already live, rather than slowly polishing it until it's perfect and full of content. I've set up a Kanban on Notion where you can keep track of what I've completed so far, what's in progress, and what I plan to do soon enough. 
 
