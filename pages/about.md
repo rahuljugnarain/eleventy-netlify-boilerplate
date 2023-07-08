@@ -12,6 +12,7 @@ eleventyNavigation:
 
 <img src="https://db3pap001files.storage.live.com/y4mOIULCZa1KQ3nisxgBsY4ZQmGBSkg5wbMcYNhnIPLqx2uq0tV9RX-JnxKhs15uhpN_m_UzJ5nnlIInJmuvJ21KJ5XIVluc8MSzhZZ6diEu-SdeotRVwUFqWoPw0qjpDFiqJXBN7a87CzWUc3MEDlxwNP0rO7PIc6BUttGqgLgxLJ_Slmyqv412R4IA2ouo9V7?width=5405&height=1195&cropmode=none" width="5405" height="1195" />
 
+<<<<<<< HEAD
 Hi there! I'm Rahul, a Product Manager at [TrueLayer](https://truelayer.com/) in London.
 
 A culmination of various experiences has made me who I am today.
@@ -30,6 +31,14 @@ Aside from Product, I have several interests/hobbies that I hope to write about:
 - Coding
 - Anime
 - Books/Podcasts
+=======
+Hi there! I'm Rahul, a Product Manager at [Wise](https://wise.com/) in London.
+
+I've always been very interested in tech, specifically using it to solve real problems. 
+
+I'll be using this site to record and distill learnings. 
+
+>>>>>>> parent of eaa98f2 (2023 update)
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/jugnarain/) or through this site!
 
