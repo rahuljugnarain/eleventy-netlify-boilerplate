@@ -7,19 +7,19 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-## Hey there! I'm Rahul Jugnarain 👋
+## Hey, I'm Rahul 👋
 
 <div class="imageleftalign">
-    <div className="image"><img src="https://db3pap001files.storage.live.com/y4m8JZrEQryqiepn8H3CUIJp2N3ErI4zp1_Tvbm39lia95JgUNEGyAn0YZwgAwevKI6QwJ-ofbTUGSvBa631bI6DknxXJSiIlIH0Y1XaFgm3Nu3K-hGu8F2tH8XPCxup7CdDzjGCnlUS_0VadFzJzF75L-YbCL0aDU0zPRr0d3GBtp_0Kqk4DP0BZt3cLh4tSI-?width=1080&height=1080&cropmode=none" width="190" height="190"/></div>
+    <div className="image"><img src="https://onedrive.live.com/embed?resid=4BBFAFAC10AEF7E5%218991&authkey=%21APHsxYF7ke7wrjw&width=999999&height=1024" width="190" height="190"/></div>
   </div>
 
-Welcome to my personal blog, where I hope to write about things I'm passionate about. 
+Currently a PM at [Wise](https://wise.com/), living in London. 
 
-This may include whatever I'm learning about, but one thing you'll hopefully soon find here in abundance is "Product" related items. Currently a Product Manager, my mission is to explore, understand, test, and build meaningful solutions for real people. [More about me](/about/)
+Previously worked at [TrueLayer](https://truelayer.com/). 
 
-I decided to go live with this website in it's bare state. Why? because I believe it's easier to incrementally work towards something that's already live, rather than slowly polishing it until it's perfect and full of content. I've set up a Kanban on Notion where you can keep track of what I've completed so far, what's in progress, and what I plan to do soon enough. 
+Main interests: things that help me understand problems, people and myself more.
 
-[Kanban Tracker 📋](https://jugnarain.notion.site/11159de418774f108030e41df07b6574?v=bbf77e0017194aea934e1a486a063515) 
+[What I'm currently reading](https://www.goodreads.com/user/show/137903139-rahul-jugnarain).
 
-### Recent Posts
-[Find out more about why I'm building this site](posts/why-i-am-building-this-website/)
+You can contact me through [email](rahuljugnarain@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jugnarain/).
+
